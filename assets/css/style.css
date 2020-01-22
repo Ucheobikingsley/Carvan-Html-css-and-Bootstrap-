@@ -1,0 +1,40 @@
+.clean-navbar .navbar-nav .nav-item {
+  padding-right:6rem;
+}
+
+a:hover {
+  color:#0056b3;
+  text-decoration:none;
+}
+
+@media (min-width:576px) {
+  .clean-block .block-heading {
+    padding-top:50px;
+  }
+}
+
+.dropdown, .dropleft, .dropright, .dropup {
+  position:relative;
+  padding-right:4rem;
+}
+
+.dropdown a:hover {
+  background-color:#4A534E;
+}
+
+.nav-item a:hover {
+  background-color:#4A534E;
+}
+
+.dropdown-item a:hover {
+  background-color:#4A534E;
+}
+
+.navbar-expand-lg .navbar-nav .dropdown-menu {
+  border:none;
+}
+
+.dropdown:hover .dropdown-menu {
+  display:block;
+}
+
